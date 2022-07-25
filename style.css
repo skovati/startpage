@@ -1,11 +1,11 @@
 :root {
     --font: "Roboto Mono";
-    --background: #1d1f21;
-    --foreground: #c5c8c6;
-    --green: #b5bd68;
-    --red: #cc6666;
-    --orange: #f0c674;
-    --branch: 1px solid #a7a9be;
+    --background: #080c07;
+    --foreground: #B9C9B8;
+    --green: #638660;
+    --red: #BD4D5A;
+    --orange: #A47449;
+    --branch: 1px solid #B9C9B8;
 }
 
 html {
@@ -103,4 +103,5 @@ input {
     color: var(--foreground);
     background-color: var(--background);
     border: none;
+    outline: none;
 }

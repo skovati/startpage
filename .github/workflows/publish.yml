@@ -18,7 +18,6 @@ jobs:
       contents: read
       packages: write
     runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: login to ghcr
         uses: docker/login-action@v2

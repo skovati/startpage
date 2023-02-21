@@ -1,5 +1,6 @@
 :root {
-    --font: "Roboto Mono";
+    --font: "monospace";
+    --font-family: "monospace";
     --background: #080c07;
     --foreground: #B9C9B8;
     --green: #638660;
